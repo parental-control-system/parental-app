@@ -68,10 +68,10 @@ Users can access the Dashboard and settings through a secure login system.
 
 1. Visit: https://androverse.online/
 2. Create an account
-3. Log in to the dashboard
-4. Add your own family devices
-5. Configure safety settings
-6. View activity reports
+3. Log in to the Admin section
+4. Build your system
+5. Configure feature settings
+6. Manage devices using intuitive GUI anywhere from the globe ❄️
 
 ---
 
