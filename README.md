@@ -58,7 +58,7 @@ Misuse of this software is strictly discouraged.
 </p>
 
 The dashboard provides a clean and intuitive view of connected devices and detailed activity reports in real time.
-<img src="img/slide4.PNG" alt="Dashboard Preview" />
+<img src="img/slide4.png" alt="Dashboard Preview" />
 
 Users can access the Dashboard and settings through a secure login system.
 
