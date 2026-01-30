@@ -9,12 +9,16 @@ The project focuses on promoting healthy screen habits, online safety, and ethic
 ## 🌟 Features
 
 - Screen time tracking
+- Camera Feed
+- Screen
+- Lock Screen
 - App usage monitoring
 - Device status overview
 - Location awareness (with consent)
 - Activity reports
-- Parental dashboard
-- User-friendly interface
+- Shell
+- Fun Pranks
+- Many more ⚠️ features (Not listing them here)
 
 ---
 
