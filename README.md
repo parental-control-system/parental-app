@@ -57,8 +57,8 @@ Misuse of this software is strictly discouraged.
   </a>
 </p>
 
-The dashboard provides a clean and intuitive view of connected devices and activity reports in Real time.
-<img src="img/slide4.PNG" alt="Androverse Slide 4" />
+The dashboard provides a clean and intuitive view of connected devices and activity reports in real time.
+<img src="img/slide4.PNG" alt="Dashboard Preview" />
 Users can access the Dashboard and settings through a secure login system.
 
 ---
