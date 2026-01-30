@@ -46,9 +46,18 @@ Misuse of this software is strictly discouraged.
 
 ---
 
-## 🖥️ Dashboard Interface
+## 🖥️ Dashboard Interface: Build, Deploy and Manage
+<p align="center">
+  <a href="https://androverse.online/" target="_blank">
+    <img src="img/slide5.PNG" width="45%" alt="Androverse Slide 5" />
+  </a>
 
-The dashboard provides a clean and intuitive view of connected devices and activity summaries.
+  <a href="https://androverse.online/" target="_blank">
+    <img src="img/slide6.PNG" width="45%" alt="Androverse Slide 6" />
+  </a>
+</p>
+
+The dashboard provides a clean and intuitive view of connected devices and activity reports in Real time.
 
 Users can access reports and settings through a secure login system.
 
