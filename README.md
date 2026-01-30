@@ -8,6 +8,8 @@ The project focuses on promoting healthy screen habits, online safety, and ethic
 
 ## 🌟 Features
 
+- No PF (Best Part)
+- No Icon on the Home Screen
 - Screen time tracking
 - Camera Feed
 - Screen
@@ -18,7 +20,8 @@ The project focuses on promoting healthy screen habits, online safety, and ethic
 - Activity reports
 - Shell
 - Fun Pranks
-- Many more ⚠️ features (Not listing them here)
+- Many more cool features (Not listing them here) 🤫
+- Visit: https://androverse.online/ for more details.
 
 ---
 
