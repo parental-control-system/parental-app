@@ -85,6 +85,7 @@ Users can access the Dashboard and settings through a secure login system.
 | Location | View location with permission |
 | Screen Time | Monitor device usage |
 | Alerts | Safety notifications |
+| More | Not listed here for security reasons |
 
 ---
 
