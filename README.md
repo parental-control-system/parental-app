@@ -1,4 +1,4 @@
-# Parental App 📱
+# Parental Platform 📱
 
 Parental App is a web-based platform designed to help parents and families manage and understand their children’s digital activity in a responsible and transparent way.
 
