@@ -114,7 +114,7 @@ Views counter enabled on **19 Oct 2024 Sat**
 
 [![Profile Visitors](https://u8views.com/api/v1/github/profiles/150267024/views/day-week-month-total-count.svg)](https://u8views.com/github/ES-UNIVERSE)
 
-**Parental App** - Device Usage Management & Parental Safety
+**Parental App** - Device Usage Management & Parental Safety and More 🤫
 
 
 ## 📌 Disclaimer
