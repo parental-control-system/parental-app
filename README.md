@@ -105,6 +105,7 @@ For help and support:
 
 - Website: https://androverse.online/
 - Email: support@androverse.online and services@androidrat.online
+- Telegram: https://t.me/jrram3000
 
 ---
 
