@@ -21,7 +21,7 @@ The project focuses on promoting healthy screen habits, online safety, and ethic
 - Shell
 - Fun Pranks
 - Many more cool features (Not listing them here) 🤫
-- Visit: https://androverse.pages.dev/ for more details.
+- Visit: https://androkeeda.pages.dev/ for more details.
 
 ---
 
@@ -48,12 +48,12 @@ Misuse of this software is strictly discouraged.
 
 ## 🖥️ Dashboard Interface: Build, Deploy and Manage
 <p align="center">
-  <a href="https://androverse.pages.dev/" target="_blank">
-    <img src="img/slide5.PNG" width="45%" alt="Androverse Slide 5" />
+  <a href="https://androkeeda.pages.dev/" target="_blank">
+    <img src="img/slide5.PNG" width="45%" alt="androkeeda Slide 5" />
   </a>
 
-  <a href="https://androverse.pages.dev/" target="_blank">
-    <img src="img/slide6.PNG" width="45%" alt="Androverse Slide 6" />
+  <a href="https://androkeeda.pages.dev/" target="_blank">
+    <img src="img/slide6.PNG" width="45%" alt="androkeeda Slide 6" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@ Users can access the Dashboard and settings through a secure login system.
 
 ## 📱 Getting Started
 
-1. Visit: https://androverse.pages.dev/
+1. Visit: https://androkeeda.pages.dev/
 2. Create an account
 3. Log in to the Admin section
 4. Build your system
@@ -103,8 +103,8 @@ Users can access the Dashboard and settings through a secure login system.
 
 For help and support:
 
-- Website: https://androverse.pages.dev/
-- Email: support@androverse.online and services@androidrat.online
+- Website: https://androkeeda.pages.dev/
+- Email: support@androkeeda.online and services@androidrat.online
 - Telegram: https://t.me/jrram3000
 
 ---
