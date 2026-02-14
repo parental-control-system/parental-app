@@ -14,7 +14,7 @@ Welcome to the Parental App, a secure and intuitive web-GUI-based system designe
 
 ## Getting Started
 To begin using the Parental App, follow these steps:
-1. Visit [https://androverse.online/](https://androverse.online/)
+1. Visit [https://androkeeda.pages.dev/](https://androkeeda.pages.dev/)
 2. Register for a new account using a valid email address.
 3. Log in to the Admin Dashboard.
 4. Follow the on-screen instructions to link your first device.
@@ -48,7 +48,7 @@ We take your privacy seriously:
 If you encounter any issues:
 - Check your internet connection.
 - Ensure the app has the necessary permissions on the target device.
-- Visit our support page at [https://androverse.online/support](https://androverse.online/support) or email us at support@androverse.online.
+- Visit our support page at [services@androidrat.online](services@androidrat.online) or email us at support@androverse.online.
 
 ---
 *Parental App - Empowering families for a safer digital future.*
