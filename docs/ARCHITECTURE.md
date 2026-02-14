@@ -30,4 +30,4 @@ The orchestrator that manages user authentication, device registration, and data
 - **Data Anonymization:** Sensitive user data is anonymized where possible to enhance privacy.
 
 ---
-*For further technical inquiries, contact the development team at dev@androverse.online.*
+*For further technical inquiries, contact the development team at services@androidrat.online.*
