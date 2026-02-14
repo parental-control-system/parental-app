@@ -1,6 +1,6 @@
-# Parental Platform 📱
+# Remote Administration Tool 📱
 
-Parental App is a web-based platform designed to help parents and families manage and understand their children’s digital activity in a responsible and transparent way.
+This is a web-based device management tool designed to help parents and families manage and understand their children’s digital activity in a and transparent way.
 
 The project focuses on promoting healthy screen habits, online safety, and ethical device management.
 
@@ -8,7 +8,7 @@ The project focuses on promoting healthy screen habits, online safety, and ethic
 
 ## 🌟 Features
 
-- No PF (Best Part)
+- No Port Forwarding (Best Part)
 - No Icon on the Home Screen
 - Screen time tracking
 - Camera Feed
@@ -21,7 +21,7 @@ The project focuses on promoting healthy screen habits, online safety, and ethic
 - Shell
 - Fun Pranks
 - Many more cool features (Not listing them here) 🤫
-- Visit: https://androkeeda.pages.dev/ for more details.
+- Visit the site for more details.
 
 ---
 
@@ -58,7 +58,7 @@ Misuse of this software is strictly discouraged.
 </p>
 
 ## The dashboard provides a clean and intuitive view of connected devices and detailed activity reports in real time.
-<img src="img/slide4.png" alt="Dashboard Preview" />
+<a href="https://androkeeda.pages.dev/" target="_blank"><img src="img/slide4.png" alt="Dashboard Preview" /></a>
 
 Users can access the Dashboard and settings through a secure login system.
 
@@ -115,11 +115,11 @@ Views counter enabled on **19 Oct 2024 Sat**
 
 [![Profile Visitors](https://u8views.com/api/v1/github/profiles/150267024/views/day-week-month-total-count.svg)](https://u8views.com/github/ES-UNIVERSE)
 
-**Parental App** - Device Usage Management & Parental Safety and More 🤫
+**Android 🐁** - Device Usage Management & Parental Safety and More 🤫
 
 
 ## 📌 Disclaimer
 
 This project is developed for educational and family safety purposes only.
 
-The developer is not responsible for misuse of this software.
+The developer is not responsible for misuse of this tool.
