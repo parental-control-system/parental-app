@@ -104,7 +104,6 @@ Users can access the Dashboard and settings through a secure login system.
 For help and support:
 
 - Website: https://androidx-sigma.vercel.app/
-- Email: support@androkeeda.online and services@androidrat.online
 - Telegram: https://t.me/jrram3000
 
 ---
