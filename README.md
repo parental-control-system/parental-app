@@ -48,17 +48,17 @@ Misuse of this software is strictly discouraged.
 
 ## 🖥️ Dashboard Interface: Build, Deploy and Manage
 <p align="center">
-  <a href="https://androkeeda.pages.dev/" target="_blank">
+  <a href="https://androidx.netlify.app/" target="_blank">
     <img src="img/slide5.PNG" width="45%" alt="androkeeda Slide 5" />
   </a>
 
-  <a href="https://androkeeda.pages.dev/" target="_blank">
+  <a href="https://androidx.netlify.app/" target="_blank">
     <img src="img/slide6.PNG" width="45%" alt="androkeeda Slide 6" />
   </a>
 </p>
 
 ## The dashboard provides a clean and intuitive view of connected devices and detailed activity reports in real time.
-<a href="https://androkeeda.pages.dev/" target="_blank"><img src="img/slide4.png" alt="Dashboard Preview" /></a>
+<a href="https://androidx.netlify.app/" target="_blank"><img src="img/slide4.png" alt="Dashboard Preview" /></a>
 
 Users can access the Dashboard and settings through a secure login system.
 
@@ -66,7 +66,7 @@ Users can access the Dashboard and settings through a secure login system.
 
 ## 📱 Getting Started
 
-1. Visit: https://androkeeda.pages.dev/
+1. Visit: https://androidx.netlify.app/
 2. Create an account
 3. Log in to the Admin section
 4. Build your system
@@ -103,7 +103,7 @@ Users can access the Dashboard and settings through a secure login system.
 
 For help and support:
 
-- Website: https://androkeeda.pages.dev/
+- Website: https://androidx.netlify.app/
 - Email: support@androkeeda.online and services@androidrat.online
 - Telegram: https://t.me/jrram3000
 
